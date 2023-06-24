@@ -1,2 +1,3 @@
 # SEVIMA-AI_CODE_FIX
 AI CODE FIX - ERROR &amp; VULNERABILITY
+hackathonsemesta2023
